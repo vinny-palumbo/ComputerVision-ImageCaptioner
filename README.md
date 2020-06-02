@@ -1,4 +1,4 @@
-# Computer Vision Nanodegree---Image-Captioning-Project
+# Image Captioning
 
 # Instructions  
 1. Clone this repo: https://github.com/cocodataset/cocoapi  
